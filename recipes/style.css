@@ -28,3 +28,13 @@ h1,h2,h3{
     background-color: palevioletred;
     padding: 8px 8px;
 }
+
+p{
+    padding: 2px 8px;
+    width: 550px;
+}
+
+
+ol{
+    width: 550px
+}
